@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T10:19:53.892Z" agent="5.0 (Windows)" etag="zD8Pk4DhFvVISESwA54b" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-17T10:21:10.264Z" agent="5.0 (Windows)" etag="EajdafAfic8ryKcRYdtT" version="20.2.2" type="github" pages="2">
   <diagram id="emtg4ziK8XBZzmeF5oYn" name="Schema 1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -127,11 +127,8 @@
         <mxCell id="SFOH-s8edsztGmtTqs-5-1" value="&lt;b&gt;CLIENT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SFOH-s8edsztGmtTqs-5-2" value="&lt;b&gt;ADMINISTRATION&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SFOH-s8edsztGmtTqs-5-4" value="&lt;b&gt;EQUITTANCE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="SFOH-s8edsztGmtTqs-5-2" value="Plate forme &lt;b&gt;ADMINISTRATION&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFOH-s8edsztGmtTqs-5-8" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -313,6 +310,9 @@
         </mxCell>
         <mxCell id="wbOYYXbPThwuhZb-w5Ks-15" value="&lt;h2&gt;&lt;i&gt;TRESOR PAY&lt;/i&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="599" y="9" width="191" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wbOYYXbPThwuhZb-w5Ks-16" value="&lt;b&gt;eQuittance&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="975" y="20" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
