@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T08:00:09.805Z" agent="5.0 (Windows)" etag="uAeIp0yQDRP4KTkLNA_b" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T09:24:56.009Z" agent="5.0 (Windows)" etag="X6Xl_UwLHLl9rHSI1BMR" version="20.2.2" type="github">
   <diagram id="emtg4ziK8XBZzmeF5oYn" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rKxUOnmC7okKNM7gupzC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rKxUOnmC7okKNM7gupzC-1" target="rKxUOnmC7okKNM7gupzC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-1" value="&lt;div&gt;Plate forme &lt;br&gt;&lt;/div&gt;&lt;div&gt;Administration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-2" value="&lt;div&gt;&lt;h2&gt;&lt;b&gt;TRESOR &lt;br&gt;&lt;/b&gt;&lt;/h2&gt;&lt;/div&gt;&lt;div&gt;&lt;h2&gt;&lt;b&gt;PAY&lt;/b&gt;&lt;/h2&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.136;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rKxUOnmC7okKNM7gupzC-5" target="rKxUOnmC7okKNM7gupzC-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-5" value="&lt;i&gt;Envoi données&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rKxUOnmC7okKNM7gupzC-9" target="rKxUOnmC7okKNM7gupzC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="525" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rKxUOnmC7okKNM7gupzC-11" target="rKxUOnmC7okKNM7gupzC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="95" y="270" />
+              <mxPoint x="95" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKxUOnmC7okKNM7gupzC-11" value="&lt;br&gt;&lt;div&gt;&lt;i&gt;Choix du service à payer&lt;/i&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="35" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
